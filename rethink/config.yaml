@@ -1,6 +1,6 @@
 # Add-on identity
 name: Rethink
-version: '0.1.5-movermeyer.1'
+version: '0.1.5-movermeyer.2'
 slug: rethink
 description: Cloud-free support for LG ThinQ appliances.
 url: https://github.com/movermeyer/rethink
